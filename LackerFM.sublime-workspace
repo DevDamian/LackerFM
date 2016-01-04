@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"octe",
+				"octet_iterator"
+			],
+			[
+				"get",
+				"get_sequence_4"
+			],
+			[
+				"get_",
+				"get_sequence_3"
+			],
+			[
+				"get_se",
+				"get_sequence_1"
+			],
+			[
+				"LEAD",
+				"LEAD_SURROGATE_MIN"
+			],
+			[
+				"trail",
+				"TRAIL_SURROGATE_MIN"
+			],
+			[
+				"LEAD_SURR",
+				"LEAD_SURROGATE_MIN"
+			],
+			[
+				"LEAD_",
+				"LEAD_SURROGATE_MIN"
+			],
+			[
+				"TRAIL",
+				"TRAIL_SURROGATE_MAX"
+			],
+			[
+				"LEAD_S",
+				"LEAD_SURROGATE_MAX"
+			],
+			[
+				"TRAIL_S",
+				"TRAIL_SURROGATE_MIN"
+			],
+			[
+				"LEAD_SU",
+				"LEAD_SURROGATE_MIN"
+			],
+			[
+				"u",
+				"uint16_t"
+			],
+			[
+				"gallery",
+				"galleryReorder"
+			],
+			[
+				"comment",
+				"commentL10n"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ho",
+				"home_path"
+			],
+			[
+				"reques",
+				"requested_url"
+			],
+			[
+				"redi",
+				"redirect_url"
+			],
+			[
+				"redire",
+				"redirect_url"
+			],
+			[
+				"redir",
+				"redirect"
+			],
+			[
+				"reque",
+				"requested_url"
+			],
+			[
+				"redirec",
+				"redirect_url"
+			],
+			[
+				"autosave",
+				"autosaveDelayURL"
+			],
+			[
+				"prope",
+				"property"
+			],
+			[
+				"proto",
+				"proto	Prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/libraries/lib1/lib1/unchecked.h",
+			"settings":
+			{
+				"buffer_size": 5483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/libraries/lib1/lib1/checked.h",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/libraries/lib1/lib1/core.h",
+			"settings":
+			{
+				"buffer_size": 7669,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 220.0,
+		"last_filter": "c++",
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"Snippet: ",
+				"Snippet: struct"
+			]
+		],
+		"width": 413.0
+	},
+	"console":
+	{
+		"height": 249.0,
+		"history":
+		[
+			"g++ lib1",
+			"cd ..",
+			"cd",
+			"help",
+			"exit()",
+			"exit",
+			"d",
+			"g++ core.h",
+			"ls",
+			"cls",
+			"clear",
+			"c;ear",
+			"mkdir",
+			"g++ core.h",
+			"g++"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/piaseckiolivier/Documents/Projects/LackerFM",
+		"/home/piaseckiolivier/Documents/Projects/LackerFM/src",
+		"/home/piaseckiolivier/Documents/Projects/LackerFM/src/libraries",
+		"/home/piaseckiolivier/Documents/Projects/LackerFM/src/libraries/lib1",
+		"/home/piaseckiolivier/Documents/Projects/LackerFM/src/libraries/lib1/lib1"
+	],
+	"file_history":
+	[
+		"/home/piaseckiolivier/Documents/Projects/LackerFM/LackerFM.sublime-project",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/piaseckiolivier/Documents/Projects/LackerFM/src/libraries/lib1/lib1/core.h",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/User/C++.sublime-settings",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/SublimeLinter/README.md",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-includes/canonical.php",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-includes/classes.php",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-admin/includes/schema.php",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-admin/css/login.css",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-admin/js/comment.js",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-admin/js/postbox.js",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-admin/js/gallery.js",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-includes/capabilities.php",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-includes/cron.php",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-includes/js/autosave.js",
+		"/home/piaseckiolivier/Documents/Projects/LateCMS v.1.0/lt-includes/js/prototype.js",
+		"/home/piaseckiolivier/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"add_action"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/libraries/lib1/lib1/unchecked.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5224,
+								5224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1870.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/libraries/lib1/lib1/checked.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "src/libraries/lib1/lib1/core.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2945,
+								2945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.541187159297,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LackerFM.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
